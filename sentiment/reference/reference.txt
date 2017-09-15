@@ -1,0 +1,2 @@
+http://www.cnblogs.com/arkenstone/p/6064196.html
+https://github.com/ayushoriginal/Sentiment-Analysis-Twitter
