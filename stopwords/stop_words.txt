@@ -35,7 +35,6 @@ all
 allow
 allows
 almost
-alone
 along
 already
 also
@@ -61,8 +60,6 @@ anywhere
 apart
 apparently
 appear
-appreciate
-appropriate
 approximately
 are
 area
@@ -81,9 +78,7 @@ asks
 associated
 at
 auth
-available
 away
-awfully
 b
 back
 backed
@@ -160,7 +155,6 @@ currently
 d
 date
 day
-days
 definitely
 describe
 described
@@ -269,9 +263,6 @@ good
 goods
 got
 gotten
-great
-greater
-greatest
 greetings
 group
 grouped
@@ -280,7 +271,6 @@ groups
 guy
 God
 h
-ha
 haha
 had
 hadn't
@@ -294,8 +284,6 @@ having
 he
 he's
 hed
-heh
-hehe
 hello
 help
 hence
@@ -322,8 +310,6 @@ his
 hither
 home
 hopefully
-hour
-hours
 how
 howbeit
 however
@@ -357,12 +343,7 @@ information
 inner
 insofar
 instead
-interest
-interested
-interesting
-interests
 into
-invention
 inward
 is
 isn't
@@ -591,7 +572,6 @@ rd
 re
 readily
 really
-reasonably
 recent
 recently
 ref
@@ -611,6 +591,7 @@ room
 rooms
 run
 RT
+rt
 s
 said
 same
@@ -654,8 +635,6 @@ showns
 shows
 side
 sides
-significant
-significantly
 similar
 similarly
 since
@@ -690,7 +669,6 @@ sub
 substantially
 successfully
 such
-sufficiently
 suggest
 sup
 sure
@@ -775,6 +753,7 @@ toward
 towards
 tried
 tries
+true
 truly
 try
 trying
@@ -889,7 +868,6 @@ works
 world
 would
 wouldn't
-wow
 www
 x
 y
