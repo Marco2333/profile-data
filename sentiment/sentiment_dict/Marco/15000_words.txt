@@ -2807,7 +2807,7 @@ bonnie	4
 manipulated	-1
 abduction	-2
 wordily	1
-continued	-2
+continued	-1
 uncreased	1
 magic	-1
 stodgy	-2
@@ -6505,7 +6505,6 @@ telling	1
 defamatory	-5
 shrimpy	-3
 valorous	3
-socioeconomically	1
 sublimely	1
 excruciating	-3
 miscast	-1
@@ -8709,7 +8708,7 @@ oecumenical	1
 psychotic	-4
 lambaste	-3
 humiliatingly	1
-speaking	3
+speaking	2
 agonadal	-1
 inefficient	-1
 unbacked	-1
@@ -14877,3 +14876,4 @@ dogmatism	-2
 sadness	-2
 entertainment	1
 headache	-2
+recovery	1
