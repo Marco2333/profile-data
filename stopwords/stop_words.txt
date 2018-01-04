@@ -30,6 +30,8 @@ afterwards
 again
 against
 ah
+aha
+ahh
 ain't
 all
 allow
@@ -318,6 +320,7 @@ hes
 hey
 hi
 hid
+hii
 high
 higher
 highest
@@ -326,6 +329,9 @@ himself
 his
 hither
 home
+homie
+homies
+hoo
 hopefully
 how
 howbeit
@@ -702,9 +708,11 @@ taking
 tell
 tends
 th
+thk
 thx
 than
 thank
+thaanks
 thanks
 thanx
 that
@@ -767,6 +775,7 @@ til
 time
 tip
 to
+tday
 today
 together
 tomorrow
@@ -898,6 +907,7 @@ www
 x
 y
 yeah
+yeahh
 year
 years
 yes
@@ -917,6 +927,7 @@ youre
 yours
 yourself
 yourselves
+yuu
 z
 zero
 zt

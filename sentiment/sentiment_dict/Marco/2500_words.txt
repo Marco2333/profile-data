@@ -515,7 +515,7 @@ crap	-3
 crash	-2
 crazier	-2
 craziest	-2
-crazy	-2
+crazy	-1
 creative	2
 crestfallen	-2
 cried	-2
@@ -697,6 +697,7 @@ discouraged	-2
 discredited	-2
 disdain	-2
 disgrace	-2
+disgraceful	-2
 disgraced	-2
 disguise	-1
 disguised	-1
@@ -842,6 +843,7 @@ engage	1
 engages	1
 engrossed	1
 enjoy	2
+enjoyed	2
 enjoying	2
 enjoys	2
 enlighten	2
@@ -1076,6 +1078,7 @@ genial	3
 ghost	-1
 giddy	-2
 gift	2
+gifts	2
 glad	3
 glamorous	3
 glamourous	3
@@ -1089,7 +1092,7 @@ glum	-2
 god	1
 goddamn	-3
 godsend	4
-good	3
+good	2
 goodness	3
 grace	1
 gracious	3
@@ -1132,6 +1135,7 @@ gullible	-2
 gun	-1
 ha	2
 hacked	-1
+hah	3
 haha	3
 hahaha	3
 hahahah	3
@@ -1164,6 +1168,7 @@ haunted	-2
 haunting	1
 haunts	-1
 havoc	-2
+headache	-2
 healthy	2
 heartbreaking	-3
 heartbroken	-3
@@ -1225,6 +1230,7 @@ humorous	2
 humour	2
 humourous	2
 hunger	-2
+hungry	-2
 hurrah	5
 hurt	-2
 hurting	-2
@@ -1234,6 +1240,7 @@ hysteria	-3
 hysterical	-3
 hysterics	-3
 idiot	-3
+idiots	-3
 idiotic	-3
 ignorance	-2
 ignorant	-2
@@ -1401,6 +1408,7 @@ killed	-3
 killing	-3
 kills	-3
 kind	2
+kindness	2
 kinder	2
 kiss	2
 kudos	3
@@ -1415,7 +1423,7 @@ landmark	2
 late	-2
 laugh	1
 laughed	1
-laughing	1
+laughing	2
 laughs	1
 laughting	1
 launched	1
@@ -1848,6 +1856,8 @@ reckless	-2
 recommend	2
 recommended	2
 recommends	2
+recover	2
+recovery	2
 redeemed	2
 refuse	-2
 refused	-2
@@ -1891,8 +1901,8 @@ resolved	2
 resolves	2
 resolving	2
 respected	2
-responsible	2
-responsive	2
+responsible	1
+responsive	1
 restful	2
 restless	-2
 restore	1
@@ -1950,6 +1960,7 @@ sad	-3
 sadden	-3
 saddened	-3
 sadly	-3
+sadness	-2
 safe	1
 safely	1
 safety	1
@@ -2073,7 +2084,6 @@ solved	1
 solves	1
 solving	1
 somber	-2
-some kind	0
 son-of-a-bitch	-5
 soothe	3
 soothed	3
@@ -2222,9 +2232,14 @@ terror	-3
 terrorize	-3
 terrorized	-3
 terrorizes	-3
+thk	2
+thx	2
 thank	2
 thankful	2
+thankfully	2
 thanks	2
+thanx	2
+thaanks	2
 thorny	-2
 thoughtful	2
 thoughtless	-2
@@ -2329,6 +2344,7 @@ united	1
 unjust	-2
 unlovable	-2
 unloved	-2
+unlucky	-3
 unmatched	1
 unmotivated	-2
 unprofessional	-2
@@ -2430,7 +2446,7 @@ whore	-4
 wicked	-2
 widowed	-1
 willingness	2
-win	4
+win	3
 winner	4
 winning	4
 wins	4
@@ -2449,6 +2465,7 @@ wooo	4
 woow	4
 worn	-1
 worried	-3
+worries	-3
 worry	-3
 worrying	-3
 worse	-3
@@ -2470,6 +2487,7 @@ wrong	-2
 wronged	-2
 wtf	-4
 yeah	1
+yeahh	1
 yearning	1
 yeees	2
 yes	1
